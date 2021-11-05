@@ -110,14 +110,14 @@ readPc = false;
 autovn = false;
 autoketik = false;
 prefixStatus = true;
-targetpc = "6282279915237";
-owner = "6282279915237";
-namabot = "Selfbot Wa";
+targetpc = "6283129083971";
+owner = "6283129083971";
+namabot = "FERIBOTZ";
 fakeyoi = "L E X 4 Y O U";
 HunterApi = "Ikyy69",
 valkey = "rivalgans",
 dapapi = "itsmevall",
-nomorowner1 = "@6282279915237";
+nomorowner1 = "@6283129083971";
 fake = `© 𝑳𝒆𝒙𝒙𝒚 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍`;
 thumb = fs.readFileSync("./stik/thumb.jpg");
 numbernye = "0";
@@ -1211,7 +1211,7 @@ Yang Penting Gak Copas Wkwk.
 Jika Sudah Dipahami Rules-nya, Silahkan ketik *${prefix}menu*
 
 *[ OWNER BOT ]*
-https://wa.me/6282279915237
+https://wa.me/6283129083971
 Mau Chat? *Utamakan kesopanan!*`
 
                buttons = [{buttonId:`${prefix}owner`,
